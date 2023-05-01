@@ -2,7 +2,7 @@
 
 namespace Clase01
 {
-    internal class Ejercicio01
+    internal class EjercicioPromedio
     {
         static void Main(string[] args)
         {
