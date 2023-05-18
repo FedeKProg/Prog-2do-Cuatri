@@ -1,6 +1,6 @@
 ﻿namespace Main
 {
-    internal class Program
+    internal class Main
     {
         static void Main(string[] args)
         {
